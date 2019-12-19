@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\bin\Debug\untitled.exe
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\bin\Debug\untitled.pdb
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\obj\Debug\BojayCommon.Form1.resources
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\obj\Debug\untitled.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\obj\Debug\untitled.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\obj\Debug\untitled.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\obj\Debug\untitled.exe
+C:\Users\Administrator\source\repos\BojayCommonUI\untitled\obj\Debug\untitled.pdb

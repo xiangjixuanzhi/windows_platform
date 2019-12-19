@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ClassPhase1.cpp
+  ClassPhase2.cpp
+  dllmain.cpp
+  TestProcessDemo.cpp
+  Generating Code...
+     Creating library C:\Users\Administrator\source\repos\LibrarySolution\Debug\TestProcessDemo.lib and object C:\Users\Administrator\source\repos\LibrarySolution\Debug\TestProcessDemo.exp
+  TestProcessDemo.vcxproj -> C:\Users\Administrator\source\repos\LibrarySolution\Debug\TestProcessDemo.dll

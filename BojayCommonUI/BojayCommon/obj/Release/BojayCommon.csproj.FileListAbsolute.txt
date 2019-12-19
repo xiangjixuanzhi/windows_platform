@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\bin\Release\BojayCommon.exe
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\bin\Release\BojayCommon.pdb
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.exe
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.pdb
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BojayCommonUI\BojayCommon\obj\Release\BojayCommon.BojayClass.resources
